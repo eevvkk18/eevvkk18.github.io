@@ -1,0 +1,79 @@
+.ui-title-inner__inner {
+    display: inline-block;
+    margin-bottom: -1px;
+    padding-bottom: 12px;
+    color: #222!important;
+    border-bottom: 1px solid #ddd;
+}
+.a-black {
+    color: black!important;
+}
+.ui-title-inner {
+    margin-top: 0;
+    margin-bottom: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: .01em;
+    text-transform: uppercase;
+    border-bottom: 1px solid #eee;
+}
+
+.border-b_prim, .border-b_prim_h:hover, .tooltip-1.bottom .tooltip-arrow, .tooltip-1.bottom-left .tooltip-arrow, .tooltip-1.bottom-right .tooltip-arrow, .table_primary > thead > tr > th, .collapse.in, .ui-title-inner__inner, .btn-bd-primary, .nav-tabs_title li.active, .nav-tabs_title li:hover {
+    border-bottom-color: #9d2222;
+}
+
+.b-post_img-120 {
+    margin-bottom: 0px;
+}
+.b-post_img-120 .entry-media {
+    width: 120px;
+}
+.b-post_img-left .entry-media {
+    float: left;
+}
+.b-post_img-120 .entry-main {
+    padding-left: 0px;
+}
+.b-post .entry-media .js-zoom-images {
+    display: block;
+}
+.img-hover-effect {
+    position: relative;
+    overflow: hidden;
+}
+.img-border-sm {
+    border: 4px solid #fff;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-responsiv, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 65%;
+    height: auto;
+}
+.b-post .entry-title {
+    margin-bottom: 9px;
+    padding-right: 20px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.69;
+}
+.b-post .entry-title, .b-post .entry-title a {
+    color: #222;
+    font-family: 'GothamPro-Light';
+}
+
+.gotham {
+    font-family: 'GothamPro-Light', Courier, monospace;
+}
+.profile-usermenu ul li.active a {
+    color: #5b9bd1;
+    background-color: #f6f9fb;
+    border-left: 2px solid #5b9bd1;
+    margin-left: -2px;
+}
